@@ -1,7 +1,7 @@
 # Sou o Raoni
 
 E ai, beleza? 👋
-<p><img src ="https://komarev.com/ghpvc/?username=RaoniSilvestre&style=for-the-badge&color=brightgreen"/></p>
+<p><img src ="https://komarev.com/ghpvc/?username=RaoniSilvestre&style=flat&color=brightgreen"/></p>
 
 ## Sobre mim
 
