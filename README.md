@@ -25,9 +25,11 @@ E ai, beleza? 👋
    ![VSCode](https://img.shields.io/badge/-VSCode-blueviolet?style=flat-square&logo=visual-studio-code)
    ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
 
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RaoniSilvestre&show_icons=true&count_private=true)
+ ## 📚 GitHub Status
+<div align="center">
+  <img width="47%"  height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaoniSilvestre&show_icons=true&include_all_commits=true&count_private=true&title_color=F7EF8A&icon_color=F7EF8A&text_color=E0AA3E&bg_color=ffffff00"/>
+  <img width="43%"  height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaoniSilvestre&layout=compact&langs_count=20&title_color=F7EF8A&icon_color=F7EF8A&text_color=E0AA3E&bg_color=ffffff00"/>
+</div>
 
 ## Projetos Destacados
 
