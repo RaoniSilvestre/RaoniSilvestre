@@ -1,6 +1,7 @@
 # Sou o Raoni
 
 E ai, beleza? 👋
+<p><img src ="https://komarev.com/ghpvc/?username=RaoniSilvestre&style=for-the-badge&color=brightgreen"/></p>
 
 ## Sobre mim
 
@@ -43,3 +44,4 @@ E ai, beleza? 👋
 - 💼 LinkedIn: [Raoni Silva](www.linkedin.com/in/raoni-silva-778439230)
 
 ## Só isso mesmo :)
+
