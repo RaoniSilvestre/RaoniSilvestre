@@ -14,6 +14,7 @@ E ai, beleza? 👋
 - 💻 **Linguagens de Programação:**
   - ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
    ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
    ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)
    ![C++](https://img.shields.io/badge/-C++-orange?style=flat-square&logo=cplusplus)
 
