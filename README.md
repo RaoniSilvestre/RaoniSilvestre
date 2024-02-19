@@ -19,7 +19,7 @@ E ai, beleza? 👋
    ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
    ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)
    ![C++](https://img.shields.io/badge/-C++-orange?style=flat-square&logo=cplusplus)
-  ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+  ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white)
 
 - 🛠️ **Tecnologias e Ferramentas:**
 
