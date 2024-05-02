@@ -1,7 +1,3 @@
-# Sou o Raoni
-
-E ai, beleza? 👋
-
 ## Sobre mim
 
 - 👨‍💻  Aprendendo desenvolvimento web e desenvolvimento de sistemas embarcados 
