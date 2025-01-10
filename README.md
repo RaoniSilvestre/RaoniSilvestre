@@ -44,10 +44,12 @@
   
   
  ## 📚 GitHub Status
-  
+
+<div align="center">
   <img width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaoniSilvestre&show_icons=true&include_all_commits=true&count_private=true&title_color=F7EF8A&icon_color=F7EF8A&text_color=E0AA3E&bg_color=ffffff00"/>
   
   <img width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaoniSilvestre&layout=compact&show_icons=true&include_all_commits=true&count_private=true&title_color=F7EF8A&icon_color=F7EF8A&text_color=E0AA3E&bg_color=ffffff00"/>
+</div>
 
 ## Contato
 
